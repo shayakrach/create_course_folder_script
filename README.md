@@ -10,6 +10,6 @@ cmd: create-course-folder.bat <Your_Course_Folder_Name>
 terminal: bash create-course-folder.sh <Your_Course_Folder_Name>
 
 
-The script will make the HW, Lecturs, FinalExam and Recitations folders.
+The script will make the HW, Lectures, FinalExam and Recitations folders.
 
 In the HW folder the script will make 13 folders, for every week in the semester.
