@@ -15,7 +15,7 @@ fi
 mkdir $course_name
 cd $course_name
 #create the folders in the course folder
-mkdir Lecturs
+mkdir Lectures
 mkdir Recitations
 mkdir FinalExam
 mkdir HW
