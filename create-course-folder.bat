@@ -9,7 +9,7 @@ echo %course_name% folder already exists
 md %course_name%
 cd %course_name%
 ::create the folders in the course folder 
-md Lecturs
+md Lectures
 md Recitations
 md FinalExam
 md HW
